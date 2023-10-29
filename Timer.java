@@ -1,4 +1,3 @@
-
 import java.util.concurrent.TimeUnit;
 
 public class Time {
@@ -43,8 +42,8 @@ public class Time {
         initializeTime();
     }
 
-    private void initializeTime(){
-        startTime=0;
-        endTime=0;
+    private void initializeTime() {
+        startTime = 0;
+        endTime = 0;
     }
 }
